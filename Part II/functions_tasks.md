@@ -16,3 +16,4 @@
 
 - All functions must be covered by tests
 - Function names must be self-explained
+- Use doc-string for all functions
