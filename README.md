@@ -1,7 +1,7 @@
 <h3 align="center">BeCode Pretraining Project</h3>
 
 #### Description
-ss
+
 This project was created for the **beCode** pretraining course in **2025**. It contains Python scripts
 for solving basic pretraining tasks, as well as test scripts. Some tasks have been modified
 and solved in a more complex way.
@@ -15,7 +15,4 @@ named `<module_name>_test.py`. The test scripts are run in the same way as regul
 #### Disclaimer
 
 Many tasks were solved in a non-standard way; do not try to repeat this at home!
-
-
-test Michiel
 
