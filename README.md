@@ -2,7 +2,9 @@
 
 #### Descriptions
 
-<span style="color: red;">This is changes by **Michiel**,I've approved them</span>
+<!--
+    <span style="color: red;">This is changes by **Michiel**,I've approved them</span>
+-->
 
 This project was created for the **beCode** pretraining course in **2025**. It contains Python scripts
 for solving basic pretraining tasks, as well as test scripts. Some tasks have been modified
