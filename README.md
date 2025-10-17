@@ -1,6 +1,6 @@
 <h3 align="center">BeCode Pretraining Project</h3>
-
-#### Description
+this is my changes
+#### Descriptions
 
 This project was created for the **beCode** pretraining course in **2025**. It contains Python scripts
 for solving basic pretraining tasks, as well as test scripts. Some tasks have been modified
